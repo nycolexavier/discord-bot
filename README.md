@@ -2,7 +2,7 @@
 ---
 <img src="https://img.shields.io/static/v1?label=Status&message=incomplete&color=ff0000&style=for-the-badge&logo=ghost"/>
 
-<p align="center">Esse curso esta disponível no canal do YouTube: <a href="https://youtube.com/playlist?list=PLZlkyCIi8bMprZgBsFopRQMG_Kj1IA1WG" > Aqui </a> </p>
+<p align="center">Esse curso esta disponível no canal do YouTube: <a href="https://youtube.com/playlist?list=PLRqwX-V7Uu6avBYxeBSwF48YhAnSn_sA4" > Aqui </a> </p>
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
@@ -22,14 +22,14 @@ Nesse repositório guardo todas as anotações, materiais e projetos que foram r
 - [] Aula 03
 - [] Aula 04 
 - [] Aula 05
+- [] Aula 06
 
 ### Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Python](https://www.python.org/downloads/)
-- [Anaconda](https://www.anaconda.com/products/individual)
-- [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)
+- [Visual Code](https://code.visualstudio.com/download)
+- [JavaScript](https://www.javascript.com/)
 
 ### Licença
 
