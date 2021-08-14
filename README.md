@@ -30,7 +30,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Visual Code](https://code.visualstudio.com/download)
 - [JavaScript](https://www.javascript.com/)
-- [Discord](https://discord.com/)
 
 ### Licença
 
